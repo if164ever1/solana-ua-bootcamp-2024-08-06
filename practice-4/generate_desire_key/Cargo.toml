@@ -1,0 +1,8 @@
+[package]
+name = "generate_key"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+solana-sdk = "2.0.4"
+base58 = "0.2.0"
